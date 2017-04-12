@@ -1,2 +1,2 @@
 # TrustedAdvisor
-Content repository for Trusted Advisor initiative
+Trusted Advisor initiative
