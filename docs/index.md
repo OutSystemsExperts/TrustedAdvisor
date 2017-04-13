@@ -1,3 +1,6 @@
+---
+title: Trusted Advisor
+---
 # Introduction to Trusted Advisor
 ## What it is?
 Trusted Advisor is a quality assurance tool for OutSystems projects.
