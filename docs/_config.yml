@@ -1,2 +1,5 @@
+---
+name: Trusted Advisor
+description: Quality tool for OutSystems developers
 gems:
-  - jekyll-sitemap
+- jekyll-sitemap
